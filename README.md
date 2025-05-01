@@ -5,11 +5,14 @@
 arXiv, 2025 | Fudan Univ., Transwarp | Ma et al.
    
 1. [**VBase: Unifying Online Vector Similarity Search and Relational Queries via Relaxed Monotonicity**](https://www.usenix.org/system/files/osdi23-zhang-qianxi_1.pdf)  
-   OSDI, 2023 | MSR Asia, ECNU, USTC, Renmin Univ. | Zhang et al.
+   OSDI, 2023 | Microsoft Asia, ECNU, USTC, Renmin Univ. | Zhang et al.
 
 ## Numeric Range Filter
+1. [**Efficient Dynamic Indexing for Range Filtered Approximate Nearest Neighbor Search**](https://www1.se.cuhk.edu.hk/~swang/V3mod-152-RangePQ.pdf)  
+   SIGMOD, 2025 | CUHK, PolyU, Alibaba | Zhang et al.
+
 1. [**DIGRA: A Dynamic Graph Indexing for Approximate Nearest Neighbor Search with Range Filter**](https://www1.se.cuhk.edu.hk/~swang/V3mod148-DIGRA.pdf)  
-   PACMMOD Vol. 3, No. 3 | CUHK, HUST, PolyU, Alibaba | Jiang et al.
+   SIGMOD, 2025 | CUHK, HUST, PolyU, Alibaba | Jiang et al.
    
 1. [**ESG: Elastic Graphs for Range-Filtering Approximate k-Nearest Neighbor Search**](https://arxiv.org/abs/2504.04018)  
    arXiv, 2025 | HKUST, Leicester, Ant Group, Osaka Univ. | Yang et al.
